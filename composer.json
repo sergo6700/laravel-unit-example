@@ -1,21 +1,16 @@
 {
-    "name": "framgia/laravel-test-examples",
-    "description": "Unit and integration tests example project.",
+    "name": "sergo6700/laravel-test-examples",
+    "description": " tests example project.",
     "keywords": ["framework", "laravel", "testing", "phpunit"],
     "license": "MIT",
     "type": "project",
-    "homepage": "https://github.com/framgia/laravel-test-examples",
+    "homepage": "https://github.com/sergo6700/laravel-unit-example",
     "authors": [
         {
-            "name": "Roman Kinyakin",
-            "email": "1@grep.su"
+            "name": "Sergey Grigoryan",
+            "email": "sergrigoryan98@gmail.com"
         }
     ],
-    "support": {
-        "issues": "https://github.com/framgia/laravel-test-examples/issues",
-        "source": "https://github.com/framgia/laravel-test-examples",
-        "docs": "https://github.com/framgia/laravel-test-guidelines"
-    },
     "require": {
         "php": ">=7.0.0",
         "fideloper/proxy": "~3.3",
